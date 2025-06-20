@@ -1,7 +1,7 @@
 <p align = "center">
   <div align="center">
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayminer01&theme=github_dark&card_width=300&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayminer01&theme=github_dark&card_width=300&count_private=true&include_all_commits=true)
   
   ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayminer01&theme=github_dark&hide_title=true&hide_border=true&show_icons=true&card_width=500&count_private=true&include_all_commits=true)
   </div>
